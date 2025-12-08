@@ -1,20 +1,6 @@
 <!-- Banner GIF Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
 
-<!-- Main Header -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&height=60&lines=✨+Hola,+soy+AlesisxHz+✨" alt="Typing SVG" />
-  
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF6B8B&center=true&vCenter=true&width=600&lines=🚀+Desarrollador+Frontend;📊+Entusiasta+Data+Science;🎓+Estudiante+USAT;🔥+%22Que+quieres+que+haga+pereira%22" alt="Subtitle" />
-  </p>
-  
-  <!-- Profile Views -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=AlesisxHz&color=7E3ACE&style=flat-square&label=VISITAS+👁️" alt="Profile views" />
-  </p>
-</div>
-
 <br />
 
 <!-- About Me Section -->
@@ -85,31 +71,6 @@
 
 <br />
 
-<!-- GitHub Stats -->
-## 📊 **Estadísticas de GitHub**
-
-<div align="center">
-  
-  <!-- GitHub Stats Cards -->
-  <a href="https://github.com/AlesisxHz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlesisxHz&show_icons=true&theme=radical&count_private=true&border_radius=15&bg_color=0d1117&title_color=7E3ACE&icon_color=FF6B8B" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlesisxHz&layout=compact&theme=radical&border_radius=15&bg_color=0d1117&title_color=7E3ACE&langs_count=8" alt="Top Languages" />
-  </a>
-  
-  <!-- Streak Stats -->
-  <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlesisxHz&theme=radical&hide_border=true&background=0d1117&ring=7E3ACE&fire=FF6B8B&currStreakLabel=7E3ACE" alt="GitHub Streak" height="180" />
-  
-  <!-- Activity Graph -->
-  <br /><br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlesisxHz&theme=react-dark&bg_color=0d1117&color=7E3ACE&line=FF6B8B&point=FFFFFF&hide_border=true" alt="Activity Graph" />
-  
-  <!-- Trophies -->
-  <br /><br />
-  <img src="https://github-profile-trophy.vercel.app/?username=AlesisxHz&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
-  
-</div>
-
 <br />
 
 <!-- Contact Section -->
@@ -128,9 +89,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
   </a>
   
-  <!-- Visitors Counter -->
-  <br /><br />
-  <img src="https://visitcount.itsvg.in/api?id=AlesisxHz&label=VISITAS&color=7E3ACE&icon=6&pretty=true" alt="Visitor Counter" />
   
 </div>
 
