@@ -55,8 +55,6 @@
 🔸 **Aplicación móvil Android con Firebase**  
 🔸 **Sistema Web con Laravel y MySQL**  
 
-*(Aquí luego puedes poner enlaces directos a tus repositorios)*
-
 ---
 
 ## 🧠 Actualmente aprendiendo :
