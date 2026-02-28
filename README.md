@@ -33,36 +33,7 @@
 ## 🛠 Tecnologías y Herramientas :
 
 <p align="left">
-
-<!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=html,css,js,angular,vue,nextjs,tailwind" />
-
-<br><br>
-
-<!-- Backend -->
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,laravel,flask,java,kotlin,python" />
-
-<br><br>
-
-<!-- Mobile & Desktop -->
-<img src="https://skillicons.dev/icons?i=androidstudio" />
-
-<br><br>
-
-<!-- Bases de Datos -->
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" />
-
-<br><br>
-
-<!-- DevOps & Tools -->
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,kali,npm,postman,vscode,wordpress,discord" />
-
-<br><br>
-
-<!-- IA -->
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-<img src="https://img.icons8.com/color/48/scikit-learn.png"/>
-
+<img src="https://skillicons.dev/icons?i=androidstudio,angular,css,discord,docker,firebase,flask,github,git,html,java,js,kali,kotlin,laravel,linux,mysql,nestjs,nextjs,nodejs,npm,php,postgres,postman,py,tailwind,tensorflow,vscode,vue,wordpress" />
 </p>
 
 ---
@@ -93,7 +64,7 @@
 - Arquitectura de software  
 - Buenas prácticas en Backend  
 - Optimización de rendimiento  
-- Machine Learning con TensorFlow y Scikit-Learn  
+- Machine Learning con TensorFlow  
 
 ---
 
