@@ -1,38 +1,34 @@
-<div align="center" width="50">
-    <img alt="github profile banner" src="./assets/oh hi there.png" width="300"/>
-</div>
+<h1 align="center">Hola 👋, soy Alejandro</h1>
 
-<h1 align="center">Hi 👋, I'm Alejandro</h1>
-
-![GitHub followers](https://img.shields.io/github/followers/AlesisxHz-afk?style=social) 
-![GitHub User's stars](https://img.shields.io/github/stars/AlesisxHz-afk?style=social) 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AlesisxHz-afk.repoName) 
+![Seguidores](https://img.shields.io/github/followers/AlesisxHz-afk?style=social) 
+![Estrellas](https://img.shields.io/github/stars/AlesisxHz-afk?style=social) 
+![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=AlesisxHz-afk.repoName) 
 <img src="https://komarev.com/ghpvc/?username=AlesisxHz-afk" alt="AlesisxHz-afk" />
 
 ---
 
-## 🚀 About Me :
+## 🚀 Sobre mí :
 
-- 💻 Passionate about **Software Development & Systems Engineering**
-- 🌱 Currently improving my skills in **Web Development and Backend Technologies**
-- 🎓 Systems Engineering student
-- 📍 Based in Peru
-- ⚡ Fun fact: I enjoy coding, learning new technologies, and solving real-world problems
+- 💻 Apasionado por el **Desarrollo de Software y la Ingeniería de Sistemas**
+- 🌱 Actualmente mejorando mis habilidades en **Desarrollo Web y Backend**
+- 🎓 Estudiante de Ingeniería de Sistemas
+- 📍 Ubicado en Perú
+- ⚡ Dato curioso: Me gusta aprender nuevas tecnologías y resolver problemas reales con código
 
 ---
 
-## ☕ Connect with me :
+## ☕ Conecta conmigo :
 
 <br>
 
-<!-- Add your real social links here -->
+<!-- Agrega tus enlaces reales aquí -->
 [![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](#)
 [![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](#)
-[![Email](https://img.icons8.com/fluency/48/000000/apple-mail.png)](mailto:your-email@gmail.com)
+[![Correo](https://img.icons8.com/fluency/48/000000/apple-mail.png)](mailto:tu-correo@gmail.com)
 
 ---
 
-## 🧑‍💻 What I am Good at :
+## 🧑‍💻 Tecnologías que manejo :
 
 <br>
 
@@ -54,19 +50,19 @@
 
 ---
 
-## 📈 GitHub Stats :
+## 📈 Estadísticas de GitHub :
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlesisxHz-afk&theme=algolia)](https://git.io/streak-stats)
+[![Racha GitHub](https://github-readme-streak-stats.herokuapp.com?user=AlesisxHz-afk&theme=algolia)](https://git.io/streak-stats)
 
-[![Alejandro GitHub stats](https://github-readme-stats.vercel.app/api?username=AlesisxHz-afk&theme=algolia)](https://github.com/AlesisxHz-afk/github-readme-stats)
+[![Estadísticas](https://github-readme-stats.vercel.app/api?username=AlesisxHz-afk&theme=algolia)](https://github.com/AlesisxHz-afk/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlesisxHz-afk&theme=algolia)](https://github.com/AlesisxHz-afk/github-readme-stats)
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AlesisxHz-afk&theme=algolia)](https://github.com/AlesisxHz-afk/github-readme-stats)
 
 ---
 
-## 🏆 GitHub Trophies :
+## 🏆 Trofeos :
 
 <br>
 
@@ -74,12 +70,12 @@
 
 ---
 
-## 📊 Activity Graph :
+## 📊 Gráfico de Actividad :
 
 <br>
 
-[![Alejandro's github activity graph](https://activity-graph.herokuapp.com/graph?username=AlesisxHz-afk&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Actividad](https://activity-graph.herokuapp.com/graph?username=AlesisxHz-afk&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-⭐ From [AlesisxHz-afk](https://github.com/AlesisxHz-afk)
+⭐ De [AlesisxHz-afk](https://github.com/AlesisxHz-afk)
