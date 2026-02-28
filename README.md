@@ -1,10 +1,5 @@
 <h1 align="center">Hola 👋, soy Alejandro</h1>
 
-![Seguidores](https://img.shields.io/github/followers/AlesisxHz-afk?style=social) 
-![Estrellas](https://img.shields.io/github/stars/AlesisxHz-afk?style=social) 
-![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=AlesisxHz-afk.repoName) 
-<img src="https://komarev.com/ghpvc/?username=AlesisxHz-afk" alt="AlesisxHz-afk" />
-
 ---
 
 ## 🚀 Sobre mí :
