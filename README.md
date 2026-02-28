@@ -5,10 +5,10 @@
 ## 🚀 Sobre mí :
 
 - 💻 Apasionado por el **Desarrollo de Software y la Ingeniería de Sistemas**
-- 🌱 Actualmente mejorando mis habilidades en **Desarrollo Web y Backend**
+- 🌱 Actualmente mejorando mis habilidades en **Desarrollo Web, Backend y Desarrollo Móvil**
 - 🎓 Estudiante de Ingeniería de Sistemas
 - 📍 Ubicado en Perú
-- ⚡ Dato curioso: Me gusta aprender nuevas tecnologías y resolver problemas reales con código
+- ⚡ Me gusta resolver problemas reales con tecnología
 
 ---
 
@@ -30,44 +30,70 @@
 
 ---
 
-## 🧑‍💻 Tecnologías que manejo :
+## 🛠 Tecnologías y Herramientas :
 
 <p align="left">
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> 
-<img src="https://img.icons8.com/color/48/000000/css3.png"/> 
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> 
-<img src="https://img.icons8.com/office/48/000000/react.png"/> 
-<img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
-<img src="https://img.icons8.com/color/48/000000/python--v1.png"/> 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> 
-<img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> 
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
-<img src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
-<img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-<img src="https://img.icons8.com/color/48/000000/git.png"/>
+
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=html,css,js,angular,vue,nextjs,tailwind" />
+
+<br><br>
+
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,laravel,flask,java,kotlin,python" />
+
+<br><br>
+
+<!-- Mobile & Desktop -->
+<img src="https://skillicons.dev/icons?i=androidstudio" />
+
+<br><br>
+
+<!-- Bases de Datos -->
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" />
+
+<br><br>
+
+<!-- DevOps & Tools -->
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,kali,npm,postman,vscode,wordpress,discord" />
+
+<br><br>
+
+<!-- IA -->
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+<img src="https://img.icons8.com/color/48/scikit-learn.png"/>
+
 </p>
 
 ---
 
-## 📈 Estadísticas de GitHub :
+## 💼 Especialidades :
 
-[![Racha GitHub](https://github-readme-streak-stats.herokuapp.com?user=AlesisxHz-afk&theme=algolia)](https://git.io/streak-stats)
-
-[![Estadísticas](https://github-readme-stats.vercel.app/api?username=AlesisxHz-afk&theme=algolia)](https://github.com/AlesisxHz-afk/github-readme-stats)
-
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AlesisxHz-afk&theme=algolia)](https://github.com/AlesisxHz-afk/github-readme-stats)
-
----
-
-## 🏆 Trofeos :
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AlesisxHz-afk)](https://github.com/AlesisxHz-afk/github-profile-trophy)
+- 🔹 Desarrollo Web Full Stack  
+- 🔹 Desarrollo de APIs REST  
+- 🔹 Aplicaciones móviles con Android  
+- 🔹 Integración de bases de datos  
+- 🔹 Machine Learning aplicado a proyectos reales  
 
 ---
 
-## 📊 Gráfico de Actividad :
+## 🚀 Proyectos Destacados :
 
-[![Actividad](https://activity-graph.herokuapp.com/graph?username=AlesisxHz-afk&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+🔸 **Sistema Web de Gestión Académica**  
+🔸 **API REST con Flask y PostgreSQL**  
+🔸 **Aplicación móvil Android con Firebase**  
+🔸 **Sistema Web con Laravel y MySQL**  
+
+*(Aquí luego puedes poner enlaces directos a tus repositorios)*
+
+---
+
+## 🧠 Actualmente aprendiendo :
+
+- Arquitectura de software  
+- Buenas prácticas en Backend  
+- Optimización de rendimiento  
+- Machine Learning con TensorFlow y Scikit-Learn  
 
 ---
 
