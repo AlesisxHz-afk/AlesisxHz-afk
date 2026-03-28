@@ -7,7 +7,6 @@
 - 💻 Apasionado por el **Desarrollo de Software y la Ingeniería de Sistemas**
 - 🌱 Actualmente mejorando mis habilidades en **Desarrollo Web, Backend y Desarrollo Móvil**
 - 🎓 Estudiante de Ingeniería de Sistemas
-- 📍 Ubicado en Perú
 - ⚡ Me gusta resolver problemas reales con tecnología
 
 ---
@@ -51,18 +50,9 @@
 ## 🚀 Proyectos Destacados :
 
 🔸 **Sistema Web de Gestión Académica**  
-🔸 **API REST con Flask y PostgreSQL**  
+🔸 **API REST con Nest JS y PostgreSQL**  
 🔸 **Aplicación móvil Android con Firebase**  
-🔸 **Sistema Web con Laravel y MySQL**  
-
----
-
-## 🧠 Actualmente aprendiendo :
-
-- Arquitectura de software  
-- Buenas prácticas en Backend  
-- Optimización de rendimiento  
-- Machine Learning con TensorFlow  
+🔸 **Sistema Web de logeo**  
 
 ---
 
