@@ -4,9 +4,9 @@
 
 ## 🚀 Sobre mí :
 
-- 💻 Apasionado por el **Desarrollo de Software y la Ingeniería de Sistemas**
-- 🌱 Actualmente mejorando mis habilidades en **Desarrollo Web, Backend y Desarrollo Móvil**
-- 🎓 Estudiante de Ingeniería de Sistemas
+- 💻 Apasionado por el **Desarrollo de Software**
+- 🌱 Actualmente mejorando mis habilidades en **Desarrollo Full Stack y Desarrollo Móvil**
+- 🎓 Estudiante de Ingeniería de Sistemas y Computacion
 - ⚡ Me gusta resolver problemas reales con tecnología
 
 ---
