@@ -54,8 +54,6 @@
 
 ---
 
-### 🐍 Snake Eating My Contributions
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/AlesisxHz-afk/AlesisxHz-afk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
 </div>
