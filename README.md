@@ -32,53 +32,37 @@
 
 ### 👨‍💻 Sobre Mí
 
-```yaml
-nombre: Alejandro Purizaca Salazar
-profesion: Desarrollador de Software Full Stack
-enfoque: Spring Boot | Angular | PostgreSQL | Arquitecturas REST
-ubicacion: Perú 🇵🇪
-idiomas:
-  - Español: Nativo
-  - Inglés: Intermedio (B1)
-```
-
-Bachiller en **Ingeniería de Sistemas y Computación** con sólida experiencia en el desarrollo de aplicaciones web **Full Stack**, destacando en **Spring Boot**, **Angular**, **APIs REST** y bases de datos **PostgreSQL**. 
-
-Cuento con experiencia comprobada en implementación de módulos, servicios backend, validaciones de negocio y optimización de información mediante consultas SQL avanzadas. Me caracterizo por mi pensamiento analítico, alta capacidad de aprendizaje, adaptabilidad y pasión por resolver problemas mediante software de calidad.
-
----
-
-### 💼 Experiencia Laboral
-
 <table>
   <tr>
-    <td width="100%">
-      <h3>🚀 Desarrollador de Software Full Stack &nbsp;|&nbsp; <em>Partner Tech</em></h3>
-      <p><strong>📅 Periodo:</strong> Marzo 2026 – Julio 2026</p>
-      <ul>
-        <li>💻 <strong>Módulos Web Modernos:</strong> Desarrollé módulos web integrando <strong>Spring Boot</strong> y <strong>Angular</strong>, implementando interfaces intuitivas para el registro, consulta y actualización de información en tiempo real.</li>
-        <li>⚡ <strong>Servicios REST:</strong> Implementé servicios RESTful robustos con Spring Boot para la gestión de operaciones CRUD y una comunicación desacoplada y eficiente entre frontend y backend.</li>
-        <li>🗄️ <strong>Gestión de Datos:</strong> Diseñé y optimicé consultas SQL en <strong>PostgreSQL</strong> para la extracción, filtrado y relacionamiento de grandes volúmenes de datos requeridos por los módulos.</li>
-        <li>🛡️ <strong>Reglas de Negocio:</strong> Integré entidades, mapeos relacionales (JPA/Hibernate) y validaciones rigurosas garantizando la integridad de datos y reglas de negocio.</li>
-        <li>🔧 <strong>Resolución de Incidencias:</strong> Diagnostiqué y resolví incidencias críticas tanto en frontend como en backend, corrigiendo fallas de lógica, optimizando tiempos de respuesta y flujo de datos.</li>
-      </ul>
+    <td width="60%" valign="top">
+      <p>
+        ¡Hola! 👋 Soy <strong>Alejandro Purizaca Salazar</strong>, desarrollador de software enfocado en crear aplicaciones web <strong>Full Stack</strong> robustas, escalables y con experiencias de usuario intuitivas.
+      </p>
+      <p>
+        Me especializo en el ecosistema <strong>Spring Boot</strong> y <strong>Angular</strong>, diseño de <strong>APIs REST</strong> y optimización de bases de datos relacionales como <strong>PostgreSQL</strong>. Me caracteriza el pensamiento analítico, la adaptabilidad, las buenas prácticas de arquitectura y la pasión por resolver desafíos tecnológicos.
+      </p>
+      <p>
+        🌐 <strong>Idiomas:</strong> Español (Nativo) &nbsp;|&nbsp; Inglés (Intermedio B1)<br/>
+        📍 <strong>Ubicación:</strong> Perú 🇵🇪
+      </p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding Animation" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🎓 Formación Académica
+### 🐍 Snake Eating My Contributions
 
-<table>
-  <tr>
-    <td width="100%">
-      <h3>🏛️ Universidad Católica Santo Toribio de Mogrovejo</h3>
-      <p>🎓 <strong>Grado:</strong> Bachiller en Ingeniería de Sistemas y Computación</p>
-      <p>📅 <strong>Periodo:</strong> Marzo 2021 – Julio 2026</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlesisxHz-afk/AlesisxHz-afk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlesisxHz-afk/AlesisxHz-afk/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AlesisxHz-afk/AlesisxHz-afk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
 
 ---
 
@@ -86,26 +70,26 @@ Cuento con experiencia comprobada en implementación de módulos, servicios back
 
 <div align="center">
 
-| Categoría | Tecnologías & Herramientas |
+| Área | Tecnologías & Herramientas |
 | :--- | :--- |
 | **Frontend** | <a href="#"><img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,tailwind" alt="Frontend Tech" /></a> |
 | **Backend** | <a href="#"><img src="https://skillicons.dev/icons?i=spring,java,nestjs,fastapi,py" alt="Backend Tech" /></a> |
 | **Bases de Datos** | <a href="#"><img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Databases" /></a> <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="40" alt="SQL Server" /> |
-| **Herramientas & Entornos** | <a href="#"><img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux,vscode" alt="Tools" /></a> |
+| **Herramientas & DevOps** | <a href="#"><img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux,vscode" alt="Tools" /></a> |
 
 </div>
 
 <br/>
 
 <details>
-  <summary><b>🔍 Desglose Detallado de Stack Tecnológico</b></summary>
+  <summary><b>🔍 Ver Detalle Completo de Tecnologías</b></summary>
   <br/>
   
-  - **Lenguajes:** Java, TypeScript, JavaScript, Python
-  - **Frameworks / Backend:** Spring Boot, NestJS, FastAPI
-  - **Frameworks / Frontend:** Angular, React, HTML5, CSS3, TailwindCSS
-  - **Bases de Datos:** PostgreSQL, MySQL, SQL Server
-  - **Control de Versiones & DevOps:** Git, GitHub, Docker, Postman
+  - 🌐 **Lenguajes:** Java, TypeScript, JavaScript, Python
+  - ⚙️ **Backend & APIs:** Spring Boot, NestJS, FastAPI, RESTful Services
+  - 🎨 **Frontend & UI:** Angular, React, HTML5, CSS3, TailwindCSS
+  - 🗄️ **Bases de Datos:** PostgreSQL, MySQL, SQL Server
+  - 🚀 **DevOps & Entorno:** Docker, Git, GitHub, Postman, Linux
 </details>
 
 ---
