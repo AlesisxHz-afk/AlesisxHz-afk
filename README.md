@@ -2,7 +2,7 @@
 <!-- BANNER SUPERIOR CON ANIMACIÓN Y GRADIENTE                      -->
 <!-- ============================================================ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0052D4,50:4364F7,100:6FB1FC&height=220&section=header&text=Alejandro%20Purizaca&fontSize=42&fontAlignY=38&desc=Desarrollador%20de%20Software%20Full%20Stack&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=220&section=header&text=Alejandro%20Purizaca&fontSize=42&fontAlignY=38&desc=Desarrollador%20de%20Software%20Full%20Stack&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" />
 
   <!-- ANIMACIÓN TYPING SVG -->
   <a href="https://git.io/typing-svg">
@@ -34,7 +34,7 @@
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="55%" valign="top">
       <p>
         ¡Hola! 👋 Soy <strong>Alejandro Purizaca Salazar</strong>, desarrollador de software enfocado en crear aplicaciones web <strong>Full Stack</strong> robustas, escalables y con experiencias de usuario intuitivas.
       </p>
@@ -46,8 +46,8 @@
         📍 <strong>Ubicación:</strong> Perú 🇵🇪
       </p>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding Animation" />
+    <td width="45%" align="center" valign="middle">
+      <img src="https://media1.tenor.com/m/F0NkYypegKkAAAAd/denji-csm.gif" width="100%" alt="Denji Chainsaw Man Coding" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
@@ -57,11 +57,7 @@
 ### 🐍 Snake Eating My Contributions
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlesisxHz-afk/AlesisxHz-afk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlesisxHz-afk/AlesisxHz-afk/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AlesisxHz-afk/AlesisxHz-afk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/AlesisxHz-afk/AlesisxHz-afk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
 </div>
 
 ---
@@ -113,15 +109,15 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=AlesisxHz-afk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=AlesisxHz-afk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlesisxHz-afk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8" alt="Top Languages" />
+        <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=AlesisxHz-afk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8" alt="Top Languages" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlesisxHz-afk&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=AlesisxHz-afk&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -133,7 +129,7 @@
 <!-- FOOTER ONDULADO CON ANIMACIÓN                                -->
 <!-- ============================================================ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0052D4,50:4364F7,100:6FB1FC&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=120&section=footer" width="100%" />
 
   <p>⭐ Diseñado con pasión por <a href="https://github.com/AlesisxHz-afk"><strong>Alejandro Purizaca Salazar</strong></a></p>
 </div>
