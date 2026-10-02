@@ -41,9 +41,6 @@
       <p>
         Cuento con experiencia profesional en desarrollo web integral, especializándome en la creación de interfaces dinámicas y modulares con <strong>Angular</strong> y <strong>React</strong>, así como en arquitecturas backend escalables con <strong>Spring Boot</strong> y <strong>NestJS</strong>. Implemento <strong>APIs REST</strong> eficientes, lógica de negocio estructurada y gestión de bases de datos relacionales y NoSQL como <strong>PostgreSQL</strong> y <strong>MongoDB</strong>.
       </p>
-      <p>
-        He aportado valor en el desarrollo de módulos y servicios backend en empresas como <strong>Partner Tech</strong> y <strong>Dicta Colombia</strong>. Me destaco por mi capacidad analítica para la <strong>resolución de problemas</strong>, el aprendizaje continuo y una rápida adaptación a nuevos retos y tecnologías.
-      </p>
     </td>
     <td width="42%" align="center" valign="middle">
       <img src="https://media1.tenor.com/m/cIkUhEGg8M0AAAAd/persona-3-reload-persona-3.gif" width="100%" alt="Persona 3 Reload" style="border-radius: 10px;" />
