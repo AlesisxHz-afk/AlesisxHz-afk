@@ -34,20 +34,19 @@
 
 <table>
   <tr>
-    <td width="55%" valign="top">
+    <td width="58%" valign="top">
       <p>
-        ¡Hola! 👋 Soy <strong>Alejandro Purizaca Salazar</strong>, desarrollador de software enfocado en crear aplicaciones web <strong>Full Stack</strong> robustas, escalables y con experiencias de usuario intuitivas.
+        ¡Hola! 👋 Soy <strong>Alejandro Purizaca Salazar</strong>, <strong>Bachiller en Ingeniería de Sistemas y Computación</strong> por la <em>Universidad Católica Santo Toribio de Mogrovejo</em> y <strong>Desarrollador de Software Full Stack</strong>.
       </p>
       <p>
-        Me especializo en el ecosistema <strong>Spring Boot</strong> y <strong>Angular</strong>, diseño de <strong>APIs REST</strong> y optimización de bases de datos relacionales como <strong>PostgreSQL</strong>. Me caracteriza el pensamiento analítico, la adaptabilidad, las buenas prácticas de arquitectura y la pasión por resolver desafíos tecnológicos.
+        Cuento con experiencia profesional en desarrollo web integral, especializándome en la creación de interfaces dinámicas y modulares con <strong>Angular</strong> y <strong>React</strong>, así como en arquitecturas backend escalables con <strong>Spring Boot</strong> y <strong>NestJS</strong>. Implemento <strong>APIs REST</strong> eficientes, lógica de negocio estructurada y gestión de bases de datos relacionales y NoSQL como <strong>PostgreSQL</strong> y <strong>MongoDB</strong>.
       </p>
       <p>
-        🌐 <strong>Idiomas:</strong> Español (Nativo) &nbsp;|&nbsp; Inglés (Intermedio B1)<br/>
-        📍 <strong>Ubicación:</strong> Perú 🇵🇪
+        He aportado valor en el desarrollo de módulos y servicios backend en empresas como <strong>Partner Tech</strong> y <strong>Dicta Colombia</strong>. Me destaco por mi capacidad analítica para la <strong>resolución de problemas</strong>, el aprendizaje continuo y una rápida adaptación a nuevos retos y tecnologías.
       </p>
     </td>
-    <td width="45%" align="center" valign="middle">
-      <img src="https://media1.tenor.com/m/F0NkYypegKkAAAAd/denji-csm.gif" width="100%" alt="Denji Chainsaw Man Coding" style="border-radius: 10px;" />
+    <td width="42%" align="center" valign="middle">
+      <img src="https://media1.tenor.com/m/cIkUhEGg8M0AAAAd/persona-3-reload-persona-3.gif" width="100%" alt="Persona 3 Reload" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
@@ -60,6 +59,33 @@
 
 ---
 
+### 💼 Experiencia Laboral
+
+<table>
+  <tr>
+    <td>
+      <h4>🚀 Desarrollador Full Stack &nbsp;|&nbsp; <strong>Partner Tech</strong> &nbsp;<em><small>(Marzo 2026 – Septiembre 2026)</small></em></h4>
+      <ul>
+        <li>Desarrollo de funcionalidades y mejora continua de componentes para módulos web utilizando <strong>Angular</strong> y <strong>Spring Boot</strong>.</li>
+        <li>Implementación de servicios backend en <strong>Spring Boot</strong>, estructurando entidades, relaciones, validaciones y reglas de negocio.</li>
+        <li>Diseño y ejecución de consultas relacionales sobre <strong>PostgreSQL</strong> mediante SQL optimizado.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>💻 Desarrollador Full Stack &nbsp;|&nbsp; <strong>Dicta Colombia</strong> &nbsp;<em><small>(Octubre 2025 – Febrero 2026)</small></em></h4>
+      <ul>
+        <li>Desarrollo de módulos web interactivos con <strong>Angular</strong> y <strong>NestJS</strong> para registro, consulta y actualización de información.</li>
+        <li>Implementación e integración de <strong>APIs REST</strong> con validaciones y lógica robusta frontend-backend.</li>
+        <li>Gestión, modelado y consultas de información en bases de datos NoSQL con <strong>MongoDB</strong>.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🛠️ Habilidades Técnicas
 
 <div align="center">
@@ -68,7 +94,7 @@
 | :--- | :--- |
 | **Frontend** | <a href="#"><img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,tailwind" alt="Frontend Tech" /></a> |
 | **Backend** | <a href="#"><img src="https://skillicons.dev/icons?i=spring,java,nestjs,fastapi,py" alt="Backend Tech" /></a> |
-| **Bases de Datos** | <a href="#"><img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Databases" /></a> <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="40" alt="SQL Server" /> |
+| **Bases de Datos** | <a href="#"><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" alt="Databases" /></a> <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="40" alt="SQL Server" /> |
 | **Herramientas & DevOps** | <a href="#"><img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux,vscode" alt="Tools" /></a> |
 
 </div>
@@ -82,7 +108,7 @@
   - 🌐 **Lenguajes:** Java, TypeScript, JavaScript, Python
   - ⚙️ **Backend & APIs:** Spring Boot, NestJS, FastAPI, RESTful Services
   - 🎨 **Frontend & UI:** Angular, React, HTML5, CSS3, TailwindCSS
-  - 🗄️ **Bases de Datos:** PostgreSQL, MySQL, SQL Server
+  - 🗄️ **Bases de Datos:** PostgreSQL, MongoDB, MySQL, SQL Server
   - 🚀 **DevOps & Entorno:** Docker, Git, GitHub, Postman, Linux
 </details>
 
