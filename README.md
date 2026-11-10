@@ -2,11 +2,11 @@
 <!-- BANNER SUPERIOR CON ANIMACIÓN Y GRADIENTE                      -->
 <!-- ============================================================ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=220&section=header&text=Alejandro%20Purizaca&fontSize=42&fontAlignY=38&desc=Desarrollador%20Full%20Stack%20%7C%20QA%20Automatización%20%7C%20DevOps&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=220&section=header&text=Alejandro%20Purizaca&fontSize=42&fontAlignY=38&desc=Desarrollador%20Full%20Stack&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" />
 
   <!-- ANIMACIÓN TYPING SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Desarrollador+Full+Stack+%7C+QA+Automation+%7C+DevOps;Especialista+en+Spring+Boot%2C+Angular%2C+FastAPI+%26+ASP.NET;Automatizaci%C3%B3n+QA%3A+Playwright%2C+Cypress+%26+Selenium;CI%2FCD%2C+Docker%2C+PostgreSQL+%26+Soluciones+Escalables" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Desarrollador+Full+Stack;Java%2C+Spring+Boot%2C+Angular+%26+React;Python%2C+PostgreSQL+%26+Machine+Learning;Aprendizaje+continuo+y+soluciones+tecnol%C3%B3gicas" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -36,13 +36,13 @@
   <tr>
     <td width="60%" valign="top">
       <p>
-        ¡Hola! 👋 Soy <strong>Alejandro Purizaca Salazar</strong>, <strong>Bachiller en Ingeniería de Sistemas y Computación</strong> por la <em>Universidad Católica Santo Toribio de Mogrovejo</em>, <strong>Desarrollador Full Stack</strong>, especialista en <strong>QA Automatización</strong> y apasionado de la cultura <strong>DevOps</strong>.
+        ¡Hola! 👋 Soy <strong>Alejandro Purizaca Salazar</strong>, <strong>Bachiller en Ingeniería de Sistemas y Computación</strong> por la <em>Universidad Católica Santo Toribio de Mogrovejo</em> y <strong>Desarrollador Full Stack</strong>.
       </p>
       <p>
-        Cuento con experiencia en el desarrollo de soluciones web de extremo a extremo, implementando arquitecturas modulares con <strong>Spring Boot</strong>, <strong>FastAPI</strong>, <strong>ASP.NET Core</strong> y <strong>Angular / React / Vue.js</strong>. Domino la integración de <strong>APIs RESTful</strong>, gestión avanzada de bases de datos relacionales (<strong>PostgreSQL, MySQL, SQL Server</strong>), automatización de pruebas de calidad (<strong>Playwright, Cypress, Selenium</strong>) y despliegue continuo mediante <strong>Docker</strong> y pipelines <strong>CI/CD</strong>.
+        Cuento con experiencia en el desarrollo de aplicaciones web <strong>Full Stack</strong>. Manejo tecnologías como <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>Angular</strong>, <strong>React</strong> y <strong>PostgreSQL</strong>, además de conocimientos en <strong>Machine Learning</strong>.
       </p>
       <p>
-        🎯 <em>Orientado a la entrega de software confiable, automatización de procesos, arquitecturas limpias y mejora continua.</em>
+        🎯 <em>Orientado al aprendizaje continuo y al desarrollo de soluciones tecnológicas.</em>
       </p>
     </td>
     <td width="40%" align="center" valign="middle">
@@ -168,21 +168,11 @@
 <table>
   <tr>
     <td>
-      <h4>🚀 Desarrollador Full Stack &nbsp;|&nbsp; <strong>Partner Tech</strong> &nbsp;<em><small>(Marzo 2026 – Septiembre 2026)</small></em></h4>
+      <h4>🚀 Desarrollador Full Stack &nbsp;|&nbsp; <strong>Partner Tech</strong> &nbsp;<em><small>(Octubre 2025 – Octubre 2026)</small></em></h4>
       <ul>
-        <li>Desarrollo y mantenimiento de funcionalidades para módulos web con <strong>Angular</strong> y <strong>Spring Boot</strong>, implementando y optimizando componentes según requerimientos del sistema.</li>
-        <li>Construcción de servicios backend en <strong>Spring Boot</strong> estructurando entidades relacionales, validaciones robustas y reglas de negocio.</li>
-        <li>Diseño y ejecución de consultas relacionales optimizadas sobre <strong>PostgreSQL</strong> mediante SQL para el flujo de datos entre módulos.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h4>💻 Desarrollador Full Stack &nbsp;|&nbsp; <strong>Dicta Colombia</strong> &nbsp;<em><small>(Octubre 2025 – Febrero 2026)</small></em></h4>
-      <ul>
-        <li>Desarrollo de módulos web interactivos con <strong>Angular</strong> y <strong>NestJS</strong> para registro, consulta y actualización de información en tiempo real.</li>
-        <li>Implementación e integración de <strong>APIs REST</strong> con validaciones de esquemas y lógica desacoplada frontend-backend.</li>
-        <li>Modelado y gestión de datos en entornos NoSQL utilizando <strong>MongoDB</strong>.</li>
+        <li>Desarrollé funcionalidades frontend con <strong>React</strong>, <strong>HTML</strong> y <strong>CSS</strong>, mediante componentes e interfaces adaptados a los requerimientos del sistema.</li>
+        <li>Implementé servicios backend con <strong>Spring Boot</strong> para la gestión de la lógica de negocio, las validaciones y el procesamiento de información.</li>
+        <li>Gestioné bases de datos <strong>PostgreSQL</strong> mediante estructuras relacionales y consultas SQL para los distintos módulos de la aplicación.</li>
       </ul>
     </td>
   </tr>
@@ -196,11 +186,10 @@
 
 | Área | Tecnologías & Herramientas |
 | :--- | :--- |
-| **Lenguajes de Programación** | <a href="#"><img src="https://skillicons.dev/icons?i=java,ts,js,py,cs,php" alt="Programming Languages" /></a> |
-| **Frameworks & Backend / Frontend** | <a href="#"><img src="https://skillicons.dev/icons?i=spring,angular,react,vue,fastapi,nestjs,flask,dotnet,laravel" alt="Frameworks" /></a> |
-| **QA & Automatización de Pruebas** | <a href="#"><img src="https://skillicons.dev/icons?i=playwright,cypress,selenium" alt="QA Automation" /></a> |
-| **DevOps & Cloud** | <a href="#"><img src="https://skillicons.dev/icons?i=docker,githubactions,gitlab,aws,jenkins,linux" alt="DevOps" /></a> |
-| **Bases de Datos** | <a href="#"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Databases" /></a> <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="40" alt="SQL Server" /> |
+| **Lenguajes de Programación** | <a href="#"><img src="https://skillicons.dev/icons?i=java,ts,js,py,php,cs" alt="Programming Languages" /></a> |
+| **Frontend** | <a href="#"><img src="https://skillicons.dev/icons?i=angular,react,vue" alt="Frontend" /></a> |
+| **Backend & Frameworks** | <a href="#"><img src="https://skillicons.dev/icons?i=spring,nestjs,fastapi,flask,laravel,dotnet" alt="Backend" /></a> |
+| **Bases de Datos** | <a href="#"><img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Databases" /></a> <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="40" alt="SQL Server" /> |
 
 </div>
 
@@ -210,12 +199,11 @@
   <summary><b>🔍 Ver Desglose Detallado de Habilidades</b></summary>
   <br/>
   
-  - 🌐 **Lenguajes:** Java, TypeScript, JavaScript, Python, C#, PHP.
-  - ⚙️ **Backend & Frameworks:** Spring Boot, FastAPI, ASP.NET Core, NestJS, Flask, Laravel, RESTful APIs.
-  - 🎨 **Frontend:** Angular, React, Vue.js, Vite, HTML5, CSS3, TailwindCSS.
-  - 🧪 **QA Automatización:** Playwright, Cypress, Selenium, Pruebas E2E, Regresión y Pruebas de Integración.
-  - ☁️ **DevOps & CI/CD:** Docker, Docker Compose, GitHub Actions, GitLab CI/CD, AWS, Jenkins, Linux, Git.
-  - 🗄️ **Bases de Datos:** PostgreSQL, MySQL, SQL Server, MongoDB, Dapper, SQLAlchemy.
+  - 🌐 **Lenguajes:** Java, TypeScript, JavaScript, Python, PHP, C#.
+  - ⚙️ **Backend & Frameworks:** Spring Boot, NestJS, FastAPI, Flask, Laravel, .NET.
+  - 🎨 **Frontend:** Angular, React, Vue.js, HTML, CSS.
+  - 🤖 **Machine Learning:** XGBoost, predicción de variables del proceso de distribución.
+  - 🗄️ **Bases de Datos:** PostgreSQL, MySQL, SQL Server.
 </details>
 
 ---
